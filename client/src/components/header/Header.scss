@@ -1,0 +1,19 @@
+header {
+  padding: 20px 0;
+  background: white;
+
+  ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+
+    li {
+      list-style: none;
+
+      a {
+        font-size: 30px;
+      }
+    }
+  }
+}
